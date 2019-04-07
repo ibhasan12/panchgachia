@@ -1,0 +1,117 @@
+/*my web_2*/
+p,div{
+	margin:0 auto;
+	padding:0px;
+}
+section {
+    margin: 0 auto;
+    width: 1000px;
+}
+div > h3 {
+    color: #fff;
+    background-color: blue;
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+	margin: 0 auto;
+    border-radius: 20%;
+}
+div#past_option {
+    background-color: #2A68B2;
+	text-align: center;
+	border-radius: 5%;
+}
+
+
+form {
+    font-size: 24px;
+}
+select {
+    width: 305px;
+}
+input[type="text"] {
+    width: 300px;
+}
+button {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 50%;
+    padding: 20px 20px;
+}
+
+button:hover{
+	background-color:#000;
+	color:red;
+}
+b{
+	text-shadow: 1px 1px #000;
+}
+
+/*footer_section*/
+
+li{
+	overflow:hidden;
+}
+
+#footer_1{
+	background-color:#2A68B2;
+	padding:20px 20px;
+	margin-bottom:3px;
+	width:29%;
+	float:left;
+	padding-bottom:40px;
+	margin-top:100px;
+}
+ul > li > a {
+    text-decoration: none;
+    color:#fff;
+    font-size: 17px;
+}
+ul > li > a:hover{
+	color:black;
+}
+h4{
+	font-size:20px;
+}
+#footer_2{
+	background-color:#2A68B2;
+	padding:20px 20px;
+	margin-bottom:3px;
+	width:29%;
+	float:left;
+	padding-bottom:100px;
+	margin-top:100px;
+}
+#footer_3{
+	background-color:#2A68B2;
+	padding:20px 20px;
+	margin-bottom:3px;
+	width:29%;
+	float:left;
+	margin-top:100px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
